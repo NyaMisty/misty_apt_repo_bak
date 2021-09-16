@@ -234,6 +234,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: misty
 Name: sifunlock jp
 
+Package: moe.misty.sifunlockjp
+Version: sifas-jp-843638800
+Architecture: iphoneos-arm
+Maintainer: misty
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/moe.misty.sifunlockjp_sifas-jp-843638800_iphoneos-arm.deb
+Size: 15626
+MD5sum: 51301438028578bc7723c4a59843e2ab
+SHA1: 93a4ab7283b7762b6b81363b59c35f96d568855c
+SHA256: 03fb8239e7537e5aba9c7a256f19229d307e7b57033206954176c3919c3e7d99
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: misty
+Name: sifunlock jp
+
 Package: moe.misty.surge4-advanced
 Version: 0.0.1
 Architecture: iphoneos-arm
